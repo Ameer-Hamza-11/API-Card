@@ -1,0 +1,11 @@
+.container-fluid{
+    height: auto;
+    border: 1px solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-evenly;
+}
+.box{
+    box-shadow: 2px 2px 5px black;
+}

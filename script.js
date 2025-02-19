@@ -9,7 +9,7 @@ fetch(url)
       card.classList.add("card");
       card.style.width = "18rem";
       card.classList.add('mt-3')
-      card.style.boxShadow = '2px 2px 5px black'
+      card.style.boxShadow = '1px 1px 15px #222'
       container.appendChild(card);
 
       let img = document.createElement("img");
